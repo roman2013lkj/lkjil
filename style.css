@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+header{
+background-color: rgba(179, 251, 255, 0.795);
+height: 35px;
+font-size: 25px;
+   
+}
+a{
+ color: black;  
+box-shadow: 5px 5px 15px  ;
+}
+
+h1{
+color: rgb(0, 28, 80);
+border: 6px solid rgb(66, 52, 255);
+padding: 10px;
+opacity: 0.7;
+}
+
+p{
+    color: blueviolet;
+   margin: 20px;
+ height: 20px;   
+margin-left: 250px ;
+}
+
+footer{
+background-color: rgb(18, 43, 90);
+
+
+}
+
+img{
+color: aqua;    
+}
+
+
+
+
+
+
+
+
